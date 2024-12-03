@@ -1,7 +1,9 @@
 Itsuka's works in minecraft & about Minecraft. 
 Please use under GPL3.0 and CC-BY-NC-SA License. 
 
-Shield (Documents): [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+Shield(Code): [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+Shield(Document): [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
