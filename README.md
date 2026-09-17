@@ -14,7 +14,7 @@ Please use under CC-BY-NC-SA License.
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-## Game Version
+# Game Version
 
 #### You can adjust the version by yourself, but it may cause same bugs. Here's my game version. 
 
@@ -34,9 +34,16 @@ Create Deco: createdeco-2.0.1-fabric
 
 MTR: 1.20-3.2.2-hotfix-1
 
-## Q&A
+# Introduction
 
-### Q: How to use schem files in Minecraft? 
+## Buildings
+
+You can find a lot of schem files here. 
+
+
+# Q&A
+
+## Q: How to use schem files in Minecraft? 
 
 ### A: 
 Find the root directory of your Game (where you put your mod files), and put the schem files you've downloaded under this directory: 
@@ -57,7 +64,7 @@ Then start the game and enter the command (e.g. load file ABC.schem):
 
 and use //paste to paste the file into your world. 
 
-### Q: What's the tricolour in your files?
+## Q: What's the tricolour in your files?
 
 ### A: 
 

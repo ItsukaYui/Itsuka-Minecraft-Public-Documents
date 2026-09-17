@@ -1,3 +1,39 @@
+[CS] Meziříčmost
+[CY-GB] Aberllan
+[DA] Tårnkøbing
+[DE] Furtstadt
+[EN-GB] Minsterford
+[EN-US] Portville
+[EL] Ιεροσογέφυρα
+[ES]
+[ET]
+[FI]
+[FR] Brivaville
+[GA] Béal Feirsteach / Belfastagh
+[GD-GB] Inbhir Locha / Inverloch
+[GRC-KOINE] Ἱεροσσογέφυρα
+[GRC-x-CLS] ΙΕΡΟΤΤΟΓΕΦΥΡΑ
+[GRC-x-BYZ] Ἱεροττογέφυρα
+[HR]
+[HU]
+[IS]
+[IT]
+[JA] 朝凪（あさなぎ）
+[LA] Pons Hierossī
+[LT]
+[LV]
+[MT]
+[NL] Vijfbruggen
+[NO]
+[PL]
+[PT]
+[SK]
+[SL]
+[SV]
+[TR]
+
+
+------UNUSED------
 赤城（あかぎ） [JA]
 Augusta Rufentum [LA]
 An Baile Átha Dearg [GA]
