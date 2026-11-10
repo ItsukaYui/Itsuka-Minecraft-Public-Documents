@@ -1,0 +1,5 @@
+	NAME		LENGTH(Blocks)
+  	   8A		        162
+	   4A		         81
+	 small		         32
+             very small		         32
