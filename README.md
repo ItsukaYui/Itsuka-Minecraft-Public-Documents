@@ -105,6 +105,26 @@ National flags in different historical times were named by optional tag "eu4" (A
 
 This folder contains different elements of a railway system. Most of the files are required you to load MTR mod (which is mentioned by "mtr-required"). 
 
+Files in this repo are named under the same method. 
+For example: 
+
+#### RAIL-station-4A2underground-NS.schem
+
+    RAIL: The class of this file. 
+
+    station: The subclass of this file under the soperclass AP. 
+
+    4A2underground: The name of this file. 
+        "4A" means the length of the platform
+        (PS: You can check the length in blocks in file "length-of-each-station.txt") 
+        "2" means the number of tracks. 
+        So "4A2" means "a station with 2 platforms length 4A". 
+        
+        "underground" means this station is an underground station. 
+    
+
+    NS: This is the towards of the station(tracks). "NS" means this station towards the direction North-South(parallel to the axis Z), and "WE" means this station towards the direction West-East(parallel to the axis X). 
+
 ### Structure Sets
 
 This folder contains different sets, such as different National flags on the flagpoles. 
